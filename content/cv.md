@@ -17,12 +17,6 @@ subtitle: Subtitle
 <a href="../docs/AmandaNortonCV.docx">Download CV</a>
 </div>
 
-
-**Address:** 1-121 Parkside Drive, Toronto, ON M6R 2Y8  
-**Phone:** 437-233-9303  
-**Email:** [amanda.norton@mail.utoronto.ca](mailto:amanda.norton@mail.utoronto.ca)  
-**Website:** [amandanortongeo.com](https://amandanortongeo.com)
-
 ---
 
 ## Academic Training
