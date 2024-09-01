@@ -7,17 +7,20 @@ subtitle: Subtitle
 <style>
 .download-cv {
   width: 100%;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  a {
+    font-weight:700
+  }
+  margin-top: -65px;
 }
 </style>
 <div class="download-cv">
-<h2>Amanda Norton, MPH</h2>
+<div></div>
 <a href="../docs/AmandaNortonCV.docx">Download CV</a>
 </div>
-
----
 
 ## Academic Training
 
