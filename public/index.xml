@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amanda Norton MPH</title>
+    <link>//localhost:4321/</link>
+    <description>Recent content on Amanda Norton MPH</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Apr 2024 21:48:51 -0700</lastBuildDate>
+    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:4321/about/</link>
+      <pubDate>Thu, 04 Apr 2024 21:48:51 -0700</pubDate>
+      <guid>//localhost:4321/about/</guid>
+      <description>Research and Professional Interests&#xD;I have a background in statistics and public health with a bachelor’s degree in Statistics from University of South Florida and a Master of Public Health in Epidemiology and Biostatistics from Boston University. After earning my MPH, I worked in Boston as a Data Analyst.&#xA;My current research interests are in exploring the measurement of health exposures, specifically air pollution. Air pollution is a growing public health concern and has been linked to many chronic illnesses.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>//localhost:4321/publications/</link>
+      <pubDate>Thu, 01 Feb 2024 21:48:51 -0700</pubDate>
+      <guid>//localhost:4321/publications/</guid>
+      <description>Norton, A., Fuller-Thomson, E., &amp; Adams, M. (2024). Environmental Injustice in The Peel Region: A Cross-Sectional Analysis of Air Pollution and Social Vulnerability. Published - Journal of City Climate Policy and Economy. https://doi.org/10.3138/jccpe-2023-0017&#xD;Norton, A., Russel, A., Radford, A., Burgess, M., Bauer, J., Christiansen, C., Knight, S., Whitacre, S., Basta, N. Ceballos, D. (2023). Addressing Air Traffic Concerns: Assessing Aircraft Pollutants in Milton Soil. Published -Journal of Water, Air and Soil Pollution.</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>//localhost:4321/contact/</link>
+      <pubDate>Wed, 03 Jan 2024 21:48:51 -0700</pubDate>
+      <guid>//localhost:4321/contact/</guid>
+      <description>&#xD;What is your name?&#xD;What is your email address?&#xD;Message&#xD;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>//localhost:4321/cv/</link>
+      <pubDate>Mon, 01 Jan 2024 21:48:51 -0700</pubDate>
+      <guid>//localhost:4321/cv/</guid>
+      <description>Amanda Norton, MPH&#xD;Download CV&#xD;Address: 1-121 Parkside Drive, Toronto, ON M6R 2Y8&#xA;Phone: 437-233-9303&#xA;Email: amanda.norton@mail.utoronto.ca&#xA;Website: amandanortongeo.com&#xA;Academic Training University of Toronto Department of Geography and Planning&#xA;Doctorate of Geography Candidacy Achieved (In Progress)&#xA;Focus Area: Modelling air pollution exposures and their relationship with SES and health&#xA;Boston University School of Public Health&#xA;Master of Public Health: Epidemiology &amp;amp; Biostatistics (May 2019)&#xA;University of South Florida&#xA;Bachelor of Arts: Statistics (May 2017)</description>
+    </item>
+  </channel>
+</rss>

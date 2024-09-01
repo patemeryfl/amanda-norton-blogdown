@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:4321/about/</loc>
+    <lastmod>2024-04-04T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2024-04-04T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/publications/</loc>
+    <lastmod>2024-02-01T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/contact/</loc>
+    <lastmod>2024-01-03T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/cv/</loc>
+    <lastmod>2024-01-01T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/</loc>
+  </url>
+</urlset>
